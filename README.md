@@ -8,7 +8,6 @@
 <li>Il client generato automaticamente secondo le istruzioni riportate in <a href="https://instruments.jamio.com/knowledge_base/index.html?api_rest.htm">Knowledge Base</a>, \Client_Test_OpenAPI_466\client466;</li>
 <li>La soluzione .net di esempio per la chiamata ai metodi OpenAPI di jamio, \Client_Test_OpenAPI_466\Client_OpenApi.</li>
 </ul>
-<p style="text-align: justify;">Di seguito, un video tutorial circa l&rsquo;utilizzo del client e di come &egrave; possibile, tramite client, richiamare le API di Jamio openwork:</p>
-<p style="text-align: justify;"><strong>              </strong></p>
+<p style="text-align: justify;">Di seguito, un video tutorial circa l&rsquo;utilizzo del client e di come &egrave; possibile, tramite client, richiamare le API di Jamio openwork: https://github.com/Jamio-openwork/OpenAPI/blob/main/ChiamateOpenAPI.mp4</p>
 <p style="text-align: justify;">Per la documentazione relativa alle OpenAPI di Jamio openwork clicca&nbsp;<a href="https://paas.jamio.com/openapi/swagger/ui/index">QUI</a>.</p>
 <p style="text-align: justify;">La documentazione completa del Gateway REST OpenAPI, le istruzioni utili a generare i client e l&rsquo;indirizzo del descrittore swagger sono disponibili nella sezione&nbsp;<a href="http://instruments.jamio.com/knowledge_base/index.html?restopenapi.htm">Gateway REST OpenAPI</a>&nbsp;della Knowledge base.</p>
